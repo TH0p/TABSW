@@ -1,0 +1,12 @@
+{
+  "id": "zen-tab-switcher",
+  "name": "Single Tab Switcher (Ctrl+Tab to Tab)",
+  "description": "Altera o atalho de alternar abas de Ctrl+Tab para apenas TAB (e Shift+Tab para retroceder).",
+  "version": "1.0.0",
+  "author": "Custom",
+  "homepage": "https://github.com/",
+  "style": "style.css",
+  "scripts": [
+    "tab-switcher.uc.js"
+  ]
+}
