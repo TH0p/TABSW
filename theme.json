@@ -1,0 +1,11 @@
+{
+  "name": "Tab Switch Remap",
+  "description": "Troca o atalho Ctrl+Tab por apenas Tab para avançar de aba (Shift+Tab volta).",
+  "version": "1.0.0",
+  "author": "you",
+  "homepage": "",
+  "id": "b6a2f6b0-3f2a-4e2f-9b39-tabswitchremap",
+  "type": "chrome",
+  "content": ["chrome.js"],
+  "unsafe": true
+}
