@@ -1,11 +1,18 @@
 {
+  "id": "tab-switch-remap",
   "name": "Tab Switch Remap",
   "description": "Troca o atalho Ctrl+Tab por apenas Tab para avançar de aba (Shift+Tab volta).",
-  "version": "1.0.0",
+  "scripts": {
+    "tab-switch-remap.uc.js": {
+      "include": [
+        "chrome://browser/content/browser.xhtml"
+      ]
+    }
+  },
+  "homepage": "https://github.com/TH0p/TABSW",
+  "readme": "https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPO/main/README.md",
   "author": "you",
-  "homepage": "",
-  "id": "b6a2f6b0-3f2a-4e2f-9b39-tabswitchremap",
-  "type": "chrome",
-  "content": ["chrome.js"],
-  "unsafe": true
+  "version": "1.1.0",
+  "tags": ["Zen Browser", "Keyboard Shortcut", "Tabs"],
+  "fork": ["zen"]
 }
